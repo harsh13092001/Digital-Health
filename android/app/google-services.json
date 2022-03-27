@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170638200021",
+    "project_id": "digital-health-6bcad",
+    "storage_bucket": "digital-health-6bcad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170638200021:android:75d01de3a98a29f032665c",
+        "android_client_info": {
+          "package_name": "com.example.digital_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170638200021-pqdvu5bckhugvtpc41a0jsc2f4j4co2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDguzOlawEyfg2wCn5a9kVgyj38_tHFoKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170638200021-pqdvu5bckhugvtpc41a0jsc2f4j4co2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

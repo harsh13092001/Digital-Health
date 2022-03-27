@@ -1,0 +1,44 @@
+import 'package:flutter/material.dart';
+
+Widget appBarMain(BuildContext context){
+  return AppBar(
+    title: Text("Collegial"),
+    backgroundColor:  Color(0xFF8F48F7),
+  );
+}
+
+InputDecoration textFieldInputDecoration(String hintText){
+  return InputDecoration(
+                hintText: hintText,
+                hintStyle: TextStyle(
+                  color:Colors.white54
+                ),
+                focusedBorder: UnderlineInputBorder(
+                  borderSide: BorderSide(color: Colors.white) ),
+                  enabledBorder: UnderlineInputBorder(
+                    borderSide: BorderSide(color: Colors.white) )
+              
+              );
+}
+
+TextStyle textStyle(){
+   return TextStyle(
+     color: Colors.black,
+     fontSize: 14
+   );
+
+}
+TextStyle textstyle_w(){
+   return TextStyle(
+     color: Colors.black,
+     fontSize: 14
+   );
+
+}
+
+TextStyle textStyle1(){
+  return TextStyle(
+                color: Colors.black,
+                fontSize: 18
+              );
+}
